@@ -61,6 +61,7 @@ public class GUI extends javax.swing.JFrame {
         ordenar = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setTitle("Vectores Personalizados");
 
         jLabel1.setText("Ingrese el tamaño del vector:");
 
